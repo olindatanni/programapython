@@ -1,0 +1,4 @@
+Minha primeira escrita Segunda linha.
+Segunda linha.
+Terceira linha.
+Quarta linha.
